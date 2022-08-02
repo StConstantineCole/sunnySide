@@ -372,6 +372,10 @@ footer ul li a:hover{
        
     }
 
+    .banner img{
+        width: 10%;
+    }
+
     .paragraph{
         flex-basis: 100%;
         background-color: var(--White);
